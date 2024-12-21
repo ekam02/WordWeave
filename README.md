@@ -1,2 +1,2 @@
-# EnglishFlashcards
+# WordWeave
 Maker Anki Flashcards (English)
